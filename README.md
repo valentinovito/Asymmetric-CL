@@ -1,5 +1,5 @@
 # Asymmetric-CL
-This repository contains the code implementations of the asymmetric focal contrastive loss (AFCL) and the corresponding model architecture from the paper "An Asymmetric Contrastive Loss for Handling Imbalanced Datasets". The model consists of a two-stage training strategy outlined in the following figure:
+This repository contains the code implementations of the asymmetric focal contrastive loss (AFCL) and the corresponding model architecture from the paper "An Asymmetric Contrastive Loss for Handling Imbalanced Datasets" (https://arxiv.org/abs/2207.07080). The model consists of a two-stage training strategy outlined in the following figure:
 
 ![alt text](https://github.com/valentinovito/Asymmetric-CL/blob/main/architecture.jpg)
 
