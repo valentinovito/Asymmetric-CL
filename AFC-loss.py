@@ -1,3 +1,6 @@
+import torch
+import numpy as np
+
 def asy_focal_SupConLoss(features, labels=None, mask=None, mixup=False, gamma=0, eta=0, temp=0.07):
     """
     Original code for SupConLoss: https://github.com/HobbitLong/SupContrast.
