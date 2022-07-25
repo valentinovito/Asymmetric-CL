@@ -2,6 +2,7 @@ import torch
 from torchvision import models
 from torch import nn
 import torch.nn.functional as F
+import pytorch_lightning as pl
 
 """
 Slightly adapted from the code for the SuperCon model: https://github.com/keyu07/SuperCon_ISIC.
